@@ -1,0 +1,9 @@
+/Users/adam/Repos/blazorhostedgrpc32/Shared/bin/Debug/netstandard2.1/blazorhostedgrpc32.Shared.deps.json
+/Users/adam/Repos/blazorhostedgrpc32/Shared/bin/Debug/netstandard2.1/blazorhostedgrpc32.Shared.dll
+/Users/adam/Repos/blazorhostedgrpc32/Shared/bin/Debug/netstandard2.1/blazorhostedgrpc32.Shared.pdb
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.csprojAssemblyReference.cache
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.csproj.CoreCompileInputs.cache
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.AssemblyInfoInputs.cache
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.AssemblyInfo.cs
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.dll
+/Users/adam/Repos/blazorhostedgrpc32/Shared/obj/Debug/netstandard2.1/blazorhostedgrpc32.Shared.pdb
