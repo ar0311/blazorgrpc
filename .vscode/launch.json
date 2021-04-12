@@ -10,7 +10,7 @@
              "request": "launch",
              "hosted": true,
              // If you have changed target frameworks, make sure to update the program path.
-             "program": "${workspaceFolder}/Server/bin/Debug/netcoreapp3.1/blazorhostedgrpc32.Server.dll",
+             "program": "${workspaceFolder}/Server/bin/Debug/net5.0/blazorhostedgrpc32.Server.dll",
              "cwd": "${workspaceFolder}/Server",
              "timeout": 50000
          }
