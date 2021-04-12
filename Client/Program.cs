@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using System.Text;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
-using blazorhostedgrpc32.Shared;
+using blazorhostedgrpc50.Shared;
 
 using GrpcGreeter;
 using Grpc.Core;
@@ -13,7 +13,7 @@ using Grpc.Net.Client.Web;
 using Microsoft.AspNetCore.Components;
 using System.Net.Http;
 
-namespace blazorhostedgrpc32.Client
+namespace blazorhostedgrpc50.Client
 {
     public class Program
     {

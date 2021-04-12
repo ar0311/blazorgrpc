@@ -13,8 +13,8 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\blazorhostedgrpc32.Client.csproj" />
-    <ProjectReference Include="..\Shared\blazorhostedgrpc32.Shared.csproj" />
+    <ProjectReference Include="..\Client\blazorhostedgrpc50.Client.csproj" />
+    <ProjectReference Include="..\Shared\blazorhostedgrpc50.Shared.csproj" />
   </ItemGroup>
 
 

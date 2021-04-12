@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace blazorhostedgrpc32.Server
+namespace blazorhostedgrpc50.Server
 {
     public class Startup
     {

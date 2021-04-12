@@ -1,4 +1,4 @@
-﻿using blazorhostedgrpc32.Shared;
+﻿using blazorhostedgrpc50.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace blazorhostedgrpc32.Server.Controllers
+namespace blazorhostedgrpc50.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

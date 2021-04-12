@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace blazorhostedgrpc32.Shared
+namespace blazorhostedgrpc50.Shared
 {
     public class WeatherForecast
     {

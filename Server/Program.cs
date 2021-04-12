@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace blazorhostedgrpc32.Server
+namespace blazorhostedgrpc50.Server
 {
     public class Program
     {
